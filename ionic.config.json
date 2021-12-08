@@ -1,0 +1,7 @@
+{
+  "name": "MyproyectoBYFV",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
